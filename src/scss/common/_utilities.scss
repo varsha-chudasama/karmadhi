@@ -1,0 +1,211 @@
+.bg-19B99A {
+    background-color: $color-19B99A;
+}
+
+.bg-F5F5F5 {
+    background-color: $color-F5F5F5;
+}
+
+.text-19B99A {
+    color: $color-19B99A;
+}
+
+.text-F5F5F5 {
+    color: $color-F5F5F5;
+}
+
+
+.font13 {
+    font-size: $font13;
+}
+
+.font14 {
+    font-size: $font14;
+}
+
+.font16 {
+    font-size: $font16;
+}
+
+.font20 {
+    font-size: $font20;
+}
+
+.font24 {
+    font-size: $font24;
+}
+
+.font30 {
+    font-size: $font30;
+}
+
+.font36 {
+    font-size: $font36;
+}
+
+.font42 {
+    font-size: $font42;
+}
+
+.font48 {
+    font-size: $font48;
+}
+
+.font60 {
+    font-size: $font60;
+}
+
+.font100 {
+    font-size: $font100;
+}
+
+
+// leading ==================== 
+
+
+.leading24 {
+    line-height: $leading24;
+}
+
+.leading30 {
+    line-height: $leading30;
+}
+
+.leading32 {
+    line-height: $leading32;
+}
+
+.leading38 {
+    line-height: $leading38;
+}
+
+.leading40 {
+    line-height: $leading40;
+}
+
+.leading48 {
+    line-height: $leading48;
+}
+
+.leading50 {
+    line-height: $leading50;
+}
+
+.leading56 {
+    line-height: $leading56;
+}
+
+.leading60 {
+    line-height: $leading60;
+}
+
+.leading80 {
+    line-height: $leading80;
+}
+
+
+.space7_04 {
+    letter-spacing: $space7_04 ;
+}
+
+.space10_72 {
+    letter-spacing: $space10_72;
+}
+
+.space-0_8 {
+    letter-spacing: $space-0_8 ;
+}
+
+
+
+@include media-breakpoint-down(lg) {
+    .res-font13 {
+        font-size: $font13;
+    }
+
+    .res-font14 {
+        font-size: $font14;
+    }
+
+    .res-font16 {
+        font-size: $font16;
+    }
+
+    .res-font20 {
+        font-size: $font20;
+    }
+
+    .res-font24 {
+        font-size: $font24;
+    }
+
+    .res-font30 {
+        font-size: $font30;
+    }
+
+    .res-font36 {
+        font-size: $font36;
+    }
+
+    .res-font42 {
+        font-size: $font42;
+    }
+
+    .res-font48 {
+        font-size: $font48;
+    }
+
+
+    .res-leading24 {
+        line-height: $leading24;
+    }
+
+    .res-leading30 {
+        line-height: $leading30;
+    }
+
+    .res-leading32 {
+        line-height: $leading32;
+    }
+
+    .res-leading38 {
+        line-height: $leading38;
+    }
+
+    .res-leading40 {
+        line-height: $leading40;
+    }
+
+    .res-leading48 {
+        line-height: $leading48;
+    }
+
+    .res-leading50 {
+        line-height: $leading50;
+    }
+
+    .res-leading56 {
+        line-height: $leading56;
+    }
+
+    .res-leading60 {
+        line-height: $leading60;
+    }
+
+    .res-leading80 {
+        line-height: $leading80;
+    }
+
+
+    .res-space7_04 {
+        letter-spacing: $space7_04 ;
+    }
+
+    .res-space10_72 {
+        letter-spacing: $space10_72;
+    }
+
+    .res-space-0_8 {
+        letter-spacing: $space-0_8 ;
+    }
+}
